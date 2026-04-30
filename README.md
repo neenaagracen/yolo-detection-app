@@ -85,4 +85,4 @@ This project demonstrates the integration of deep learning (YOLOv8) with a web i
 
 ## Author
 
-* Your Name
+* Neena Grace N
