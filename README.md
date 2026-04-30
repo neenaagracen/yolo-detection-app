@@ -53,20 +53,19 @@ project/
 ## Screenshots
 
 ### Login Page
-![Login](images/login.png)
+![Login](login.png)
 
 ### Register Page
-![Register](images/register.png)
+![Register](register.png)
 
 ### Webcam Detection
-![Webcam](images/webcam.png)
+![Webcam](webcam.png)
 
 ### Image Detection
-![Image](images/image_detection.png)
+![Image](image_detection.png)
 
 ### Video Detection
-![Video](images/video_detection.png)
----
+![Video](video_detection.png)
 
 ## Output
 
